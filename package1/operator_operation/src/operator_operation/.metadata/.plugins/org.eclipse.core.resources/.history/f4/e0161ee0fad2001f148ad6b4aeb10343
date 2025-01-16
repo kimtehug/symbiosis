@@ -1,0 +1,22 @@
+package package1;
+
+public class test4 {
+
+	 int a ;
+	int b;
+	 void method() {
+		System.out.println(a);
+		System.out.println(b);	
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	test4 t = new test4();
+	
+		t.a=10;
+		t.b =12;
+		t.method();
+		
+	
+	}
+
+}

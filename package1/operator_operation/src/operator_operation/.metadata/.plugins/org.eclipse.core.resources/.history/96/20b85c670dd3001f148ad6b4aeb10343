@@ -1,0 +1,22 @@
+package package1;
+
+import java.util.Scanner;
+
+//WAP accept Side of Triangle and calculate area
+public class Test11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+System.out.println("Enter Sides if Triangle");
+double a = sc.nextFloat();
+double b = sc.nextFloat();
+double c = sc.nextFloat();
+double sum = a+b+c;
+float = sum/2.0f;
+
+System.out.println();
+
+	}
+
+}
