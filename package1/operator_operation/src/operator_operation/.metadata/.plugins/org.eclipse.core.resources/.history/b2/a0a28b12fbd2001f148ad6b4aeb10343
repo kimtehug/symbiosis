@@ -1,0 +1,15 @@
+package package1;
+
+public class static2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		static1.a=3;
+		static1.b=10;
+		
+	static1.method();
+		
+	}
+
+}

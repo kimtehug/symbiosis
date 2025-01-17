@@ -1,0 +1,20 @@
+package package1;
+
+public class Test2 {
+
+	static int a ;
+	static int b;
+	static void method() {
+		System.out.println(a);
+		System.out.println(b);	
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		a=15;
+		b=100;
+		method();
+		
+	
+	}
+
+}
